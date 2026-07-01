@@ -4,7 +4,7 @@ build-backend = "pdm.backend"
 
 [project]
 authors = [{name = "Sofia Bianchi"}]
-name = "seismolab"
+name = "seismolab-py"
 version = "0.4.0"
 description = "Magnitude/energy relations, Gutenberg-Richter b-value, epicentral distance."
 readme = "README.md"
