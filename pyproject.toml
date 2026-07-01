@@ -1,0 +1,13 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+authors = [{name = "Sofia Bianchi"}]
+name = "seismolab"
+version = "0.4.0"
+description = "Magnitude/energy relations, Gutenberg-Richter b-value, epicentral distance."
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "ISC"}
+keywords = ["seismology"]
